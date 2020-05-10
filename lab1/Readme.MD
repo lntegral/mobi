@@ -13,3 +13,8 @@
 `cd D:\lab_0\`
 
 `python tariffing_cdr.py data.csv 933156729 tariff.csv`
+
+
+Контакты в случае возникновения вопросов:
+
+xu.klimova@gmail.com
